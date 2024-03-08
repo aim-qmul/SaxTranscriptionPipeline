@@ -8,32 +8,33 @@ layout: home
 Paper and Data
 ===============
 
-* [Paper (arXiv)](https://arxiv.org/abs/2311.02023)
-* [Data (Zenodo)](https://zenodo.org/uploads/10069709)
-* [Data (GitHub mirror)](https://github.com/aim-qmul/FiloBass/releases/tag/v1.0.0)
+* [Paper (arXiv)]()
+* [Data (Zenodo)]()
+* [Data (GitHub mirror)]()
 
-Demo of Audio Alignment
+<!-- Demo of Audio Alignment
 ========================
 
 Synthesised MIDI alignment on the *left* channel, original audio on the *right* channel:
 
 <div id="html" markdown="0">
 <audio src="https://www.dropbox.com/scl/fi/hay4luf8w9yfx95d7kmg2/FiloBass-Demo-track.mp3?rlkey=6ovduwqcio743k814jt5efdsb&raw=1" controls />
-</div>
+</div> -->
 
 Introduction
 ============
 
-Welcome to the companion site for the paper "FiloBass: A Dataset and Corpus Based Study of Jazz Basslines" presented at ISMIR 2023. This was work carried out by Xavier Riley, a PhD candidate on the [AIM programme](https://aim.qmul.ac.uk/) at QMUL.
+Welcome to the companion site for the paper "Reconstructing the Charlie Parker Omnibook using an audio-to-score automatic transcription pipeline". This was work carried out by Xavier Riley, a PhD candidate on the [AIM programme](https://aim.qmul.ac.uk/) at QMUL.
 
-Each piece is ~6mins, so the dataset totals roughly ~5hours of audio.
+This site contains links to Soundslice pages where you can preview all the data.
 
-This site contains links to Soundslice pages where you can preview all the data. Here's an example:
+Model weights
+=============
 
-<iframe src="https://www.soundslice.com/slices/xvKwc/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+Under preparation
 
-Score previews
-==============
+Synchronised Score Previews
+===========================
 
 * [All The Things You Are](https://www.soundslice.com/slices/4Stkc/)
 * [Alone Together](https://www.soundslice.com/slices/Gxs4c/)
@@ -87,22 +88,22 @@ Score previews
 Feedback/Questions
 ==================
 
-We welcome feedback on the dataset - please direct this to Xavier Riley whose email address can be found on the ISMIR paper.
+We welcome feedback on the dataset - please direct this to Xavier Riley whose email address can be found in the footer of this page.
 
 License
 =======
 
-The FiloBass dataset contains copyright material and is shared with researchers under the following conditions:
+The dataset contains copyright restricted material and is shared with researchers under the following conditions:
 
-* FiloBass may only be used by the individual signing below and by members of the research group or organisation of this individual. This permission is not transferable.
-* FiloBass may be used only for non-commercial research purposes.
-* FiloBass (or data enabling the its reproduction) may not be sold, leased, published or distributed to any third party without written permission from the FiloBass administrator.
+* it may only be used by the individual signing below and by members of the research group or organisation of this individual. This permission is not transferable.
+* it may be used only for non-commercial research purposes.
+* it (or data enabling the its reproduction) may not be sold, leased, published or distributed to any third party without written permission from the it administrator.
 
-* When research results obtained using FiloBass are publicly released (in the form of reports, publications, or derivative software), clear indication of the use of FiloBass shall be given, usually in the form of a citation of the following paper:
+* When research results obtained using it are publicly released (in the form of reports, publications, or derivative software), clear indication of the use of it shall be given, usually in the form of a citation of the following paper:
 
-* X. Riley and S. Dixon (2023), FiloBass: A Dataset and Corpus Based Study of Jazz Basslines. 23rd International Society for Music Information Retrieval Conference (ISMIR).
-* Queen Mary University of London shall not be held liable for any errors in the content of FiloBass nor damage arising from the use of FiloBass.
-* The FiloBass administrator may update these conditions of use at any time.
+* X. Riley and S. Dixon (TBD), TBD.
+* Queen Mary University of London shall not be held liable for any errors in the content of it nor damage arising from the use of it.
+* The it administrator may update these conditions of use at any time.
 
 Acknowledgements
 ================
