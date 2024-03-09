@@ -28,6 +28,11 @@ Welcome to the companion site for the paper "Reconstructing the Charlie Parker O
 
 This site contains links to Soundslice pages where you can preview all the data.
 
+Live demo
+=========
+
+You can try the pipeline out for yourself at [Replicate](https://replicate.com/xavriley/sax_transcription). You will need to add payment details but you only pay for the time that the GPU is running. This currently works out to around $0.03 for a 2 minute transcription.
+
 Model weights
 =============
 
