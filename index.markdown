@@ -38,6 +38,11 @@ Model weights
 
 Under preparation
 
+Automatically Transcribed Scores
+================================
+
+Under preparation
+
 Synchronised Score Previews
 ===========================
 
