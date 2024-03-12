@@ -28,6 +28,10 @@ Welcome to the companion site for the paper "Reconstructing the Charlie Parker O
 
 This site contains links to Soundslice pages where you can preview all the data.
 
+Here's a video of it in action - remember, no human intervention was required for this transcription. As we discuss in the paper, there are issues with notes in the upper register and the rhythms are also over simplified here but we hope to address these problems in future work.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bsxDD2kf164?si=BMbVeX2A4F0OWatL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Live demo
 =========
 
