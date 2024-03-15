@@ -45,6 +45,8 @@ Under preparation
 Automatically Transcribed Scores
 ================================
 
+As described in the paper, it hasn't been possible yet to transcribe the complete Omnibook using the pipeline yet. We provide a link to the 32 complete transcribed scores as MusicXML below:
+
 [Download Estimated MusicXML here](https://www.dropbox.com/scl/fi/aksdwdy2sd5yhmaky01v9/auto_omnibook.zip?rlkey=i6vunrhr3yi53uk10cpxsyj71&dl=0)
 
 Synchronised Score Previews
