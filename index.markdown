@@ -8,7 +8,7 @@ layout: home
 Paper and Data
 ===============
 
-* [Paper (arXiv)]()
+* [Paper (arXiv)](https://arxiv.org/abs/2405.16687)
 * [Data (Zenodo)]()
 * [Data (GitHub mirror)]()
 
