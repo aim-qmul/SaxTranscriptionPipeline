@@ -9,8 +9,7 @@ Paper and Data
 ===============
 
 * [Paper (arXiv)](https://arxiv.org/abs/2405.16687)
-* [Data (Zenodo)]()
-* [Data (GitHub mirror)]()
+* [Data (Zenodo)](https://zenodo.org/records/14628467)
 
 <!-- Demo of Audio Alignment
 ========================
