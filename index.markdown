@@ -10,6 +10,9 @@ Paper and Data
 
 * [Paper (arXiv)](https://arxiv.org/abs/2405.16687)
 * [Data (Zenodo)](https://zenodo.org/records/14628467)
+* [Data (Huggingface)][https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook]
+* [Model - source separation (Huggingface)](https://huggingface.co/xavriley/demucs_v3_saxophone_separation)
+* [Model - audio to MIDI (GitHub)](https://github.com/xavriley/hf_midi_transcription/)
 
 <!-- Demo of Audio Alignment
 ========================
@@ -44,7 +47,8 @@ You can try the pipeline out for yourself at [Replicate](https://replicate.com/x
 Model weights
 =============
 
-Under preparation
+- [Source Separation](https://huggingface.co/xavriley/demucs_v3_saxophone_separation)
+- [Audio-to-MIDI Transcription](https://github.com/xavriley/hf_midi_transcription/)
 
 Automatically Transcribed Scores
 ================================
